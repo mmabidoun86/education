@@ -1,0 +1,1 @@
+const educationAL001 = department;
